@@ -131,11 +131,8 @@ Join our growing community of RTL enthusiasts! 💬
 For any queries, feedback, or collaboration opportunities, feel free to reach out:  
 📧 ** agrawalnikunj290@gmail.com**  
 
----
-
-## 📜 License  
-
-This repository is licensed under the **MIT License**, allowing you to freely use and modify the projects. See the `LICENSE` file for full details.  
+ 
+   
 
 ---
 
